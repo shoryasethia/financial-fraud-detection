@@ -34,9 +34,6 @@ wheels/
 .vscode/
 *.code-workspace
 
-# PyTorch
-*.pth
-
 # Environment
 .env
 .venv
